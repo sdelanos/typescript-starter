@@ -1,6 +1,6 @@
 # Build directory
-dist
-build
+dist/
+build/
 
 # Logs
 logs
